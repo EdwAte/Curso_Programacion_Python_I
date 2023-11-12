@@ -1,0 +1,27 @@
+## 1. README
+
+### Generador de Contraseñas Aleatorias
+
+Este proyecto consiste en un script simple en Python que genera contraseñas aleatorias.
+#### Requisitos
+
+- Python 3.9.8
+
+#### Puesta en Marcha
+
+1. Descarga el script `generar_contrasena.py`.
+2. Asegúrate de tener Python 3.x instalado en tu sistema.
+3. Abre una terminal y navega al directorio donde se encuentra el script.
+4. Ejecuta el script con el siguiente comando:
+
+#### Parámetros de la Función
+
+- `longitud`: Longitud de la contraseña (por defecto: 9).
+- `incluir_numeros`: Incluir números en la contraseña (por defecto: True).
+- `incluir_mayusculas`: Incluir letras mayúsculas en la contraseña (por defecto: True).
+- `incluir_minusculas`: Incluir letras minúsculas en la contraseña (por defecto: True).
+- `incluir_especiales`: Incluir caracteres especiales en la contraseña (por defecto: True).
+
+# requirements.txt
+
+En este caso, no se necesitan dependencias externas, ya que el script utiliza las bibliotecas estándar de Python (`random` y `string`). 
