@@ -5,7 +5,7 @@
 Este proyecto consiste en un script simple en Python que genera contraseñas aleatorias.
 #### Requisitos
 
-- Python 3.9.8
+- Python 3.10.10
 
 #### Puesta en Marcha
 
